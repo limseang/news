@@ -1,4 +1,4 @@
-# news_app
+# cinemagickh
 
 A new Flutter application.
 
